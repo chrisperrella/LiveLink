@@ -30,31 +30,5 @@
 			"Type": "Editor",
 			"LoadingPhase": "PreDefault"
 		}
-	],
-	"Plugins": [
-		{
-			"Name": "LiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "LiveLinkCamera",
-			"Enabled": true
-		},
-		{
-			"Name": "EditorScriptingUtilities",
-			"Enabled": true
-		},
-		{
-			"Name": "LevelSequenceEditor",
-			"Enabled": true
-		},
-		{
-			"Name": "SequencerScripting",
-			"Enabled": true
-		},
-		{
-			"Name": "AnimationData",
-			"Enabled": true
-		}
 	]
 }
